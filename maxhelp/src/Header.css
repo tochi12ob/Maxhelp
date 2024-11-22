@@ -1,0 +1,32 @@
+/* Header.css */
+.header {
+    background-color: #282c34; /* Dark background */
+    color: white; /* White text color */
+    display: flex;
+    justify-content: space-between; /* Space out the elements */
+    align-items: center; /* Center items vertically */
+    padding: 1rem 2rem; /* Padding for spacing */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  }
+  
+  .header h1 {
+    font-size: 1.5rem; /* Font size for the title */
+    margin: 0; /* Remove default margin */
+  }
+  
+  .menu {
+    display: flex; /* Arrange links horizontally */
+    gap: 1.5rem; /* Space between links */
+  }
+  
+  .menu a {
+    color: white; /* White text color */
+    text-decoration: none; /* Remove underline */
+    font-weight: bold; /* Bold text */
+    transition: color 0.3s ease; /* Smooth transition for hover effect */
+  }
+  
+  .menu a:hover {
+    color: #61dafb; /* Light blue hover effect */
+  }
+  
