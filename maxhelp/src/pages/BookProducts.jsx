@@ -3,7 +3,7 @@ import ProductGrid from '../components/products/ProductGrid';
 import img1 from "../assets/Image11.jpeg"
 import img2 from "../assets/image12.jpeg"
 import img3 from "../assets/Image13.jpeg"
-import img4 from "../assets/Image14.jpeg"
+import img4 from "../assets/Image13.jpeg"
 import img5 from "../assets/image15.jpeg"
 import img6 from "../assets/image16.jpeg"
 import img7 from "../assets/Image17.jpeg"
